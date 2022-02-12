@@ -1,1 +1,3 @@
-# Swift_Button_and_Tap_events
+# Swift Button and Tap events
+
+Basic usage and syntax of buttons and taps along with code execution and callbacks.
